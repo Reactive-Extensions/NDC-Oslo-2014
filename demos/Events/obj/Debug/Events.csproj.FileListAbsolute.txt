@@ -1,0 +1,2 @@
+C:\GitHub\StrangeLoop2013\RxDemos\Events\bin\Debug\Events.exe.config
+C:\GitHub\StrangeLoop2013\RxDemos\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache

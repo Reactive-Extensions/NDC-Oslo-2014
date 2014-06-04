@@ -1,0 +1,44 @@
+﻿.binding p {
+    margin-left: 120px;
+}
+
+.binding #container {
+	margin-top: 50px;
+	margin-left: 120px;
+    display: -ms-grid;
+    -ms-grid-columns: 400px 400px;
+    -ms-grid-rows: 200px 200px;
+}
+
+.binding #bartTable {
+	font-size: 24px;
+    -ms-grid-column: 1;
+    -ms-grid-row: 1;
+    -ms-grid-column-align: center;
+}
+
+.binding #mattTable {
+	font-size: 24px;
+    -ms-grid-column: 2;
+    -ms-grid-row: 1;
+    -ms-grid-column-align: center;
+}
+
+.binding #sumTable {
+    -ms-grid-row: 2;
+    -ms-grid-column-span: 2;
+    -ms-grid-column-align: center;
+	font-size: 24px;
+}
+
+.binding .bindingbutton {
+	margin-top: 10px;
+	font-size: 22px;
+	width: 150px;
+	background-color: blue;
+}
+
+.binding .ageText {
+    color: red;
+    font-weight: bold;
+}

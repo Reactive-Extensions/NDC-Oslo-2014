@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MGP-SURFACE2</Machine>
+    <WindowsUser>Matthew</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3b6a1e59-a857-4c26-a824-f6551bec1884</PackageIdentityName>
+    <IntermediateOutputPath>C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\GitHub\StrangeLoop2013\RxDemos\client\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\.gitignore">
+      <PackagePath>.gitignore</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\alphabetinvasion\alphabetinvasion.css">
+      <PackagePath>pages\alphabetinvasion\alphabetinvasion.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\autocomplete\autocomplete.css">
+      <PackagePath>pages\autocomplete\autocomplete.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\binding\binding.css">
+      <PackagePath>pages\binding\binding.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\canvaspaint\canvaspaint.css">
+      <PackagePath>pages\canvaspaint\canvaspaint.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\clock\clock.css">
+      <PackagePath>pages\clock\clock.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\crop\crop.css">
+      <PackagePath>pages\crop\crop.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\dragndrop\dragndrop.css">
+      <PackagePath>pages\dragndrop\dragndrop.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\hub\hub.css">
+      <PackagePath>pages\hub\hub.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\sensors\sensors.css">
+      <PackagePath>pages\sensors\sensors.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\stocks\stocks.css">
+      <PackagePath>pages\stocks\stocks.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\timeflies\timeflies.css">
+      <PackagePath>pages\timeflies\timeflies.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\js\colorProvider.js">
+      <PackagePath>js\colorProvider.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\lib\smoothie.js">
+      <PackagePath>lib\smoothie.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\alphabetinvasion\alphabetinvasion.js">
+      <PackagePath>pages\alphabetinvasion\alphabetinvasion.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\autocomplete\autocomplete.js">
+      <PackagePath>pages\autocomplete\autocomplete.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\binding\binding.js">
+      <PackagePath>pages\binding\binding.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\canvaspaint\canvaspaint.js">
+      <PackagePath>pages\canvaspaint\canvaspaint.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\clock\clock.js">
+      <PackagePath>pages\clock\clock.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\crop\crop.js">
+      <PackagePath>pages\crop\crop.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\dragndrop\dragndrop.js">
+      <PackagePath>pages\dragndrop\dragndrop.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\hub\hub.js">
+      <PackagePath>pages\hub\hub.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\sensors\sensors.js">
+      <PackagePath>pages\sensors\sensors.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\stocks\stocks.js">
+      <PackagePath>pages\stocks\stocks.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\timeflies\timeflies.js">
+      <PackagePath>pages\timeflies\timeflies.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\rxjs\ix.js">
+      <PackagePath>rxjs\ix.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\rxjs\l2o.js">
+      <PackagePath>rxjs\l2o.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\rxjs\rx.aggregates.js">
+      <PackagePath>rxjs\rx.aggregates.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\rxjs\rx.binding.js">
+      <PackagePath>rxjs\rx.binding.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\rxjs\rx.coincidence.js">
+      <PackagePath>rxjs\rx.coincidence.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\rxjs\rx.experimental.js">
+      <PackagePath>rxjs\rx.experimental.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\rxjs\rx.joinpatterns.js">
+      <PackagePath>rxjs\rx.joinpatterns.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\rxjs\rx.js">
+      <PackagePath>rxjs\rx.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\rxjs\rx.testing.js">
+      <PackagePath>rxjs\rx.testing.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\rxjs\rx.time.js">
+      <PackagePath>rxjs\rx.time.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\rxjs\rx.winjs.js">
+      <PackagePath>rxjs\rx.winjs.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\alphabetinvasion\alphabetinvasion.html">
+      <PackagePath>pages\alphabetinvasion\alphabetinvasion.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\autocomplete\autocomplete.html">
+      <PackagePath>pages\autocomplete\autocomplete.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\binding\binding.html">
+      <PackagePath>pages\binding\binding.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\canvaspaint\canvaspaint.html">
+      <PackagePath>pages\canvaspaint\canvaspaint.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\clock\clock.html">
+      <PackagePath>pages\clock\clock.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\crop\crop.html">
+      <PackagePath>pages\crop\crop.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\dragndrop\dragndrop.html">
+      <PackagePath>pages\dragndrop\dragndrop.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\hub\hub.html">
+      <PackagePath>pages\hub\hub.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\sensors\sensors.html">
+      <PackagePath>pages\sensors\sensors.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\stocks\stocks.html">
+      <PackagePath>pages\stocks\stocks.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\timeflies\timeflies.html">
+      <PackagePath>pages\timeflies\timeflies.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\crop\images\attribution.txt">
+      <PackagePath>pages\crop\images\attribution.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\rxjs\readme.txt">
+      <PackagePath>rxjs\readme.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\pages\crop\images\leaf twirl.jpg">
+      <PackagePath>pages\crop\images\leaf twirl.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\StrangeLoop2013\RxDemos\client\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

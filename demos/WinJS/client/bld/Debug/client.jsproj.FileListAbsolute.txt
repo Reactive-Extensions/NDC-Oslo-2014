@@ -1,0 +1,15 @@
+C:\GitHub\StrangeLoop2013\RxDemos\client\bin\Debug\ReverseMap\resources.pri
+C:\GitHub\StrangeLoop2013\RxDemos\client\bin\Debug\AppxManifest.xml
+C:\GitHub\StrangeLoop2013\RxDemos\client\bin\Debug\client.build.appxrecipe
+C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\priconfig.xml
+C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\priconfig.xml.intermediate
+C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\layout.resfiles
+C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\layout.resfiles.intermediate
+C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\resources.resfiles
+C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\resources.resfiles.intermediate
+C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\pri.resfiles
+C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\pri.resfiles.intermediate
+C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\qualifiers.txt
+C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\qualifiers.txt.intermediate
+C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\GitHub\StrangeLoop2013\RxDemos\client\bld\Debug\ProjectArchitectures.txt

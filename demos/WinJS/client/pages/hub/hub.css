@@ -1,0 +1,27 @@
+﻿.hub p {
+    margin-left: 120px;
+}
+
+.hub .win-listview {
+    height: 100%;
+}
+
+.hub header h1 {
+    background-image: url(/images/logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 100px;
+}
+
+.hub section[role="main"] {
+    margin-left: 120px;
+    margin-top: 60px;
+}
+
+    .hub section[role="main"] .menuItem {
+        height: 400px;
+        width: 300px;
+        background-image: -ms-linear-gradient( bottom, #86008F 0%, #CA008F 100% );
+        padding: 10px;
+        font-size: 18pt;
+    }
