@@ -1,1 +1,1 @@
-C:\GitHub\StrangeLoop2013\RxDemos\client\client.jsproj;neutral
+C:\GitHub\NDC-Oslo-2014\demos\WinJS\client\client.jsproj;neutral
